@@ -1,1 +1,2 @@
 hello file1 staging changing from  local
+hello file1 staging from github directly
