@@ -1,1 +1,1 @@
-hello file1 staging
+hello file1 staging changing from  local
